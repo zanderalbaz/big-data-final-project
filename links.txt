@@ -1,0 +1,1 @@
+https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?begin_date=20250124&end_date=20250424&station=9414290&product=hourly_height&datum=MHW&time_zone=lst&units=english&format=json
